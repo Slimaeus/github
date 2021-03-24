@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!";
+    std::cout << "Hello Wo  rld!";
     std::cout << "Welcome to Github";
 }
 
