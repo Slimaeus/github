@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!";
+    std::cout << "Welcome to Github";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
